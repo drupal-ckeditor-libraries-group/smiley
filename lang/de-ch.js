@@ -2,8 +2,8 @@
 Copyright (c) 2003-2016, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
-CKEDITOR.plugins.setLang( 'smiley', 'eu', {
-	options: 'Aurpegieren aukerak',
-	title: 'Txertatu aurpegiera',
-	toolbar: 'Aurpegierak'
+CKEDITOR.plugins.setLang( 'smiley', 'de-ch', {
+	options: 'Smiley-Optionen',
+	title: 'Smiley auswählen',
+	toolbar: 'Smiley'
 } );
